@@ -1,11 +1,11 @@
 
-pandas==1.5.3
+pandas
 
 
-plotly-express==0.4.1
+plotly-express
 
 
 
-streamlit==1.21.0
+streamlit
 
 
