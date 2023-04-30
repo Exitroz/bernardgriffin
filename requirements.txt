@@ -5,7 +5,6 @@ pandas
 plotly-express
 
 
-
 streamlit
 
 
