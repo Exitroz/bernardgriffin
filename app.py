@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title = "Dashboard", layout="wide")
 
-df = pd.read_csv("veh.csv")
+df = pd.read_csv("notebooks/veh.csv")
 # print(df)
 st.sidebar.header("Please check the box")
 agree = st.sidebar.checkbox('Show sales summary')
